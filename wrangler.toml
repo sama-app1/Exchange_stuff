@@ -1,3 +1,8 @@
-name = "exchange-stuff"
-main = "index.js"  # تأكد من حذف كلمة src/ إذا كان الملف في الخارج
+name = "telegram-exchange-bot"
+main = "src/index.js"
 compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB" # هذا هو الاسم الذي سنستخدمه داخل الكود
+database_name = "linksdb"
+database_id = "ضع_هنا_الـ_ID_الخاص_بقاعدة_بياناتك"
