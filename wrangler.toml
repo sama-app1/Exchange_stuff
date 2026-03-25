@@ -4,5 +4,5 @@ compatibility_date = "2024-03-25"
 
 [[d1_databases]]
 binding = "DB" 
-database_name = "ytgggggg"
+database_name = "exchange-stuff-db"
 database_id = "03ed179b-401f-4fea-a368-bc772a3dee47" # الصق الـ ID هنا
