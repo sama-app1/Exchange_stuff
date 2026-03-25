@@ -1,8 +1,8 @@
 name = "telegram-exchange-bot"
 main = "src/index.js"
-compatibility_date = "2024-01-01"
+compatibility_date = "2024-03-25"
 
 [[d1_databases]]
-binding = "exchange-stuff-db" # هذا هو الاسم الذي سنستخدمه داخل الكود
-database_name = "linksdb"
-database_id = "03ed179b-401f-4fea-a368-bc772a3dee47"
+binding = "DB" 
+database_name = "LinksDB"
+database_id = "هنا_تضع_الكود_الذي_نسخته" # الصق الـ ID هنا
