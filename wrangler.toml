@@ -1,4 +1,4 @@
-name = "telegram-exchange-bot"
+name = "exchange-stuff"
 main = "index.js"
 compatibility_date = "2024-03-25"
 
